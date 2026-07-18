@@ -15,18 +15,18 @@ function kiemTra(dapAn) {
     }
 }
 
-document.getElementById("A").onclick = function() {
+document.getElementById("A").onclick = function () {
     kiemTra("A");
 };
 
-document.getElementById("B").onclick = function() {
+document.getElementById("B").onclick = function () {
     kiemTra("B");
 };
 
-document.getElementById("C").onclick = function() {
+document.getElementById("C").onclick = function () {
     kiemTra("C");
 };
 
-document.getElementById("D").onclick = function() {
+document.getElementById("D").onclick = function () {
     kiemTra("D");
 };
